@@ -4,8 +4,8 @@
 ## Section 1: Basic operations
 ### [Creation and load of database](BasicOperations.md)
 
-## Section 2: 
-### []()
+## Section 2: Crud operations
+### [Crud methods with parameters over a collection](CrudOperations.md)
 
-## Section 3:
-### 
+## Section 3: 
+### []()

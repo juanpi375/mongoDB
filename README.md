@@ -2,7 +2,7 @@
 
 
 ## Section 1: Basic operations
-### [Creation and load of database](Sections/BasicOperations.md)
+### [Creation and load of database](BasicOperations.md)
 
 ## Section 2: 
 ### []()

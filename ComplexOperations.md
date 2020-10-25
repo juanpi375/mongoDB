@@ -1,4 +1,6 @@
 [< back](./README.md)
+## Queries, filters and complex operations
+
 1. Connection to the previous excercise DB:
     ```
     use flow

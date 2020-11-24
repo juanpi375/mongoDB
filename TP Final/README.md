@@ -1,7 +1,7 @@
 # TP Final
 ### por Giancarlo Cristiano y Juan Pablo Pereira
 
-[:arrow_backward: volver al index](../README.md)
+[< volver al index](../README.md)
 
 1. Construir una aplicación (sin interfaz) utilizando la tecnología que deseen (ej. Node.js, PHP, Java, Python, etc) integrada con MongoDB.
 2. La aplicación debería similar un pequeño eCommerce: manejo de productos y ventas. Puntualmente sería:

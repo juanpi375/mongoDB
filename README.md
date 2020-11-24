@@ -9,3 +9,6 @@
 
 ## Section 3: Queries and dates
 ### [Queries and complex operations](ComplexOperations.md)
+
+## Final work: MongoDB/NodeJs API
+### [Products and Sales API](TPFinal.md)

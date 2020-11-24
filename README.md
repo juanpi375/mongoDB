@@ -11,4 +11,4 @@
 ### [Queries and complex operations](ComplexOperations.md)
 
 ## Final work: MongoDB/NodeJs API
-### [Products and Sales API](TP Final/README.md)
+### [Products and Sales API](./TP%20Final/README.md#tp-final)

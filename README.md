@@ -1,4 +1,4 @@
-# MongoDB Seminar
+# MongoDB Workshop
 
 
 ## Section 1: Basic operations
